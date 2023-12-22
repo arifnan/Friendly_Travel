@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Friendly_Travel</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_detail">Detail Wisata</string>
+    <string name="menu_location">Lokasi</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search">Cari Wisata pilihanmu!</string>
+    <string name="category_all">All</string>
+    <string name="category_mountain">Gunung</string>
+    <string name="category_beach">pantai</string>
+    <string name="category_culture">Budaya</string>
+    <string name="category_cave">Goa</string>
+    <string name="category_forest">Hutan</string>
+    <string name="section_category">Lets get travel!!</string>
+    <string name="section_favorite_menu">Wisata Favorit</string>
+    <string name="section_recomendation">Rekomendasi Wisata</string>
+    <string name="back">Kembali</string>
+
+    <!-- Filter page -->
+    <string name="rating">Rating</string>
+    <string name="min">min</string>
+    <string name="days">days</string>
+    <string name="any">Any</string>
+    <string name="apply">Apply</string>
+
+    <string name="empty_data">Data Kosong</string>
+    <string name="empty_favorite">Data Kosong</string>
+    <string name="add_favorite">Tambah Ke Favorite</string>
+    <string name="delete_favorite">Hapus Dari Favorite</string>
+
+</resources>
